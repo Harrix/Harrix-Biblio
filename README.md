@@ -11,7 +11,7 @@ https://github.com/Harrix/HarrixBiblio
 
 Не вижу смысла делать в работах ссылки на материалы, которые другие люди не смогут прочитать.
 
-Данный файл **biblio.bib** рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
+Данный файл [**biblio.bib**](../master/biblio.bib) рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
 
 https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
