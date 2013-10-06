@@ -22,6 +22,7 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
 - [**biblio.bib**](../master/biblio.bib) - непосредственно сам файл библиографических ссылок.
 - [**Materials**](../master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
+- [**images**](../master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
 - [**utf8gost705u.bst**](../master/utf8gost705u.bst) - файл для оформления по ГОСТ.
 
 Подключение в LaTeX
@@ -29,6 +30,11 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
 	\bibliographystyle{utf8gost705u}  %% стилевой файл для оформления по ГОСТу
 	\bibliography{biblio}     %% имя библиографической базы (bib-файла)
+	
+Пример списка литературы
+------------------------
+
+![alt text](../master/images/biblio.png "Пример списка литературы")
 
 Как искать материал?
 --------------------
