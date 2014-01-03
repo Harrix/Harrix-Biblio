@@ -28,9 +28,9 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 Подключение в LaTeX
 -------------------
 
-Для полноценной работы редактированию LaTeX документа вам потребуются программа для компиляции *.tex документов в *.pdf. Автор использует для этого связку MiKTex и TeXstudio.
+Для полноценной работы редактированию LaTeX документа вам потребуются программа для компиляции \*.tex документов в \*.pdf. Автор использует для этого связку MiKTex и TeXstudio.
 
- 1. Скопируйте файл [**biblio.bib**](../master/biblio.bib) и [**utf8gost705u.bst**](../master/utf8gost705u.bst) в папку с вашим *.tex файлом
+ 1. Скопируйте файл [**biblio.bib**](../master/biblio.bib) и [**utf8gost705u.bst**](../master/utf8gost705u.bst) в папку с вашим \*.tex файлом
  
  2. В месте, где хотите сослаться на материал, напишите, например: `\cite{web:makeingsimpleGA}` или `\cite[с. 93]{book:Bolshev1983}`.
 
