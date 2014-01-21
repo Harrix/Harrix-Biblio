@@ -39,6 +39,8 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 \bibliographystyle{utf8gost705u}  %% стилевой файл для оформления по ГОСТу
 \bibliography{biblio}     %% имя библиографической базы (bib-файла)
 ```
+
+Подробное описание установки и настройки связки MiKTeX + TeXstudio + pscyr можно прочитать в статье http://blog.harrix.org/?p=849.
 	
 Пример списка литературы
 ------------------------
