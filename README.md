@@ -51,6 +51,13 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
 ![alt text](../master/images/biblio.png "Пример списка литературы")
 
+Использованные технологии
+-------------------------
+
+- LaTeX;
+
+- BibTeX.
+
 История проекта
 ---------------
 
