@@ -55,7 +55,6 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 -------------------------
 
 - LaTeX;
-
 - BibTeX.
 
 История проекта
