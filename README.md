@@ -54,7 +54,8 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 Использованные технологии
 -------------------------
 
-- LaTeX, BibTeX, MiKTeX, TeXstudio, pscyr, HarrixLaTeXDocumentTemplate.
+- LaTeX, BibTeX, MiKTeX, TeXstudio.
+- HarrixLaTeXDocumentTemplate.
 
 История проекта
 ---------------
