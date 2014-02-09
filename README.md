@@ -1,7 +1,7 @@
 HarrixBiblio
 ============
 
-Версия 1.11
+Версия 1.12
 
 Файлы библиографических ссылок [**biblio.bib**](../master/biblio.bib) и [**biblioHarrix.bib**](../master/biblioHarrix.bib), которые я использую в своих статьях в формате LaTeX. При этом имеются все материалы в папках [**Materials**](../master/Materials) и [**MaterialsHarrix**](../master/MaterialsHarrix) в виде сканов и иных документов, чтобы вы могли ознакомиться с теми материалами, которые я использовал.
 
