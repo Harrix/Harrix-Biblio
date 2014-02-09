@@ -1,9 +1,9 @@
 HarrixBiblio
 ============
 
-Версия 1.10
+Версия 1.11
 
-Файл библиографических ссылок [**biblio.bib**](../master/biblio.bib), которые я использую в своих статьях в формате LaTeX. При этом имеются все материалы в папке [**Materials**](../master/Materials) в виде сканов и иных документов, чтобы вы могли ознакомиться с теми материалами, которые я использовал.
+Файлы библиографических ссылок [**biblio.bib**](../master/biblio.bib) и [**biblioHarrix.bib**](../master/biblioHarrix.bib), которые я использую в своих статьях в формате LaTeX. При этом имеются все материалы в папках [**Materials**](../master/Materials) и [**MaterialsHarrix**](../master/MaterialsHarrix) в виде сканов и иных документов, чтобы вы могли ознакомиться с теми материалами, которые я использовал.
 
 https://github.com/Harrix/HarrixBiblio
 
@@ -11,7 +11,7 @@ https://github.com/Harrix/HarrixBiblio
 
 Не вижу смысла делать в работах ссылки на материалы, которые другие люди не смогут прочитать.
 
-Данный файл [**biblio.bib**](../master/biblio.bib) рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
+Данные файлы [**biblio.bib**](../master/biblio.bib) и [**biblioHarrix.bib**](../master/biblioHarrix.bib) рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
 
 https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
@@ -21,7 +21,9 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 -------------------------
 
 - [**biblio.bib**](../master/biblio.bib) - непосредственно сам файл библиографических ссылок.
+- [**biblioHarrix.bib**](../master/biblioHarrix.bib) - файл библиографических ссылок с авторскими работами.
 - [**Materials**](../master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
+- [**Materials**](../master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
 - [**images**](../master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
 - [**utf8gost705u.bst**](../master/utf8gost705u.bst) - файл для оформления по ГОСТ.
 
