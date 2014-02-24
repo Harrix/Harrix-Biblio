@@ -51,7 +51,7 @@ HarrixBiblio
 Пример списка литературы
 ------------------------
 
-![alt text](https://github.com/Harrix/HarrixBiblio/blob/master/images/biblio.png "Пример списка литературы")
+![alt text](https://raw.github.com/Harrix/HarrixBiblio/master/images/biblio.png "Пример списка литературы")
 
 Использованные технологии
 -------------------------
