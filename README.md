@@ -3,15 +3,15 @@ HarrixBiblio
 
 Версия 1.13
 
-Файлы библиографических ссылок [**biblio.bib**](../master/biblio.bib) и [**biblioHarrix.bib**](../master/biblioHarrix.bib), которые я использую в своих статьях в формате LaTeX. При этом имеются все материалы в папках [**Materials**](../master/Materials) и [**MaterialsHarrix**](../master/MaterialsHarrix) в виде сканов и иных документов, чтобы вы могли ознакомиться с теми материалами, которые я использовал.
+Файлы библиографических ссылок [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib), которые я использую в своих статьях в формате LaTeX. При этом имеются все материалы в папках [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) и [**MaterialsHarrix**](https://github.com/Harrix/HarrixBiblio/blob/master/MaterialsHarrix) в виде сканов и иных документов, чтобы вы могли ознакомиться с теми материалами, которые я использовал.
 
-https://github.com/Harrix/HarrixBiblio
+[https://github.com/Harrix/HarrixBiblio](https://github.com/Harrix/HarrixBiblio)
 
-Данные распространяются по лицензии [Apache License, Version 2.0](../master/LICENSE.txt).
+Данные распространяются по лицензии [Apache License, Version 2.0](https://github.com/Harrix/HarrixBiblio/blob/master/LICENSE.txt).
 
 Не вижу смысла делать в работах ссылки на материалы, которые другие люди не смогут прочитать.
 
-Данные файлы [**biblio.bib**](../master/biblio.bib) и [**biblioHarrix.bib**](../master/biblioHarrix.bib) рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
+Данные файлы [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib) рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
 
 https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
@@ -20,12 +20,12 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 Структура проекта на GitHub
 -------------------------
 
-- [**biblio.bib**](../master/biblio.bib) - непосредственно сам файл библиографических ссылок.
-- [**biblioHarrix.bib**](../master/biblioHarrix.bib) - файл библиографических ссылок с авторскими работами.
-- [**Materials**](../master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
-- [**Materials**](../master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
-- [**images**](../master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
-- [**utf8gost705u.bst**](../master/utf8gost705u.bst) - файл для оформления по ГОСТ.
+- [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) - непосредственно сам файл библиографических ссылок.
+- [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib) - файл библиографических ссылок с авторскими работами.
+- [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
+- [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
+- [**images**](https://github.com/Harrix/HarrixBiblio/blob/master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
+- [**utf8gost705u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost705u.bst) - файл для оформления по ГОСТ.
 
 Установка и подключение в LaTeX
 -------------------------------
@@ -36,7 +36,7 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 
 Для полноценной работы редактированию LaTeX документа вам потребуются программа для компиляции \*.tex документов в \*.pdf. Автор использует для этого связку MiKTeX + TeXstudio + pscyr.
 
- 1. Скопируйте файл [**biblio.bib**](../master/biblio.bib) и [**utf8gost705u.bst**](../master/utf8gost705u.bst) в папку с вашим \*.tex файлом
+ 1. Скопируйте файл [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**utf8gost705u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost705u.bst) в папку с вашим \*.tex файлом
  
  2. В месте, где хотите сослаться на материал, напишите, например: `\cite{web:makeingsimpleGA}` или `\cite[с. 93]{book:Bolshev1983}`.
 
@@ -51,7 +51,7 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 Пример списка литературы
 ------------------------
 
-![alt text](../master/images/biblio.png "Пример списка литературы")
+![alt text](https://github.com/Harrix/HarrixBiblio/blob/master/images/biblio.png "Пример списка литературы")
 
 Использованные технологии
 -------------------------
@@ -62,7 +62,7 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 История проекта
 ---------------
 
-Подробный список изменений в файле [CHANGELOG.md](../master/CHANGELOG.md).
+Подробный список изменений в файле [CHANGELOG.md](https://github.com/Harrix/HarrixBiblio/blob/master/CHANGELOG.md).
 
 Контакты
 --------
