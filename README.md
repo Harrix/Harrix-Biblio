@@ -23,7 +23,7 @@ HarrixBiblio
 - [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) - непосредственно сам файл библиографических ссылок.
 - [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib) - файл библиографических ссылок с авторскими работами.
 - [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
-- [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
+- [**MaterialsHarrix**](https://github.com/Harrix/HarrixBiblio/blob/master/MaterialsHarrix) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
 - [**images**](https://github.com/Harrix/HarrixBiblio/blob/master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
 - [**utf8gost705u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost705u.bst) - файл для оформления по ГОСТ.
 
