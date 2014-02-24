@@ -13,7 +13,7 @@ HarrixBiblio
 
 Данные файлы [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib) рекомендуется использовать в составе шаблона документов HarrixLaTeXDocumentTemplate:
 
-https://github.com/Harrix/HarrixLaTeXDocumentTemplate
+[https://github.com/Harrix/HarrixLaTeXDocumentTemplate](https://github.com/Harrix/HarrixLaTeXDocumentTemplate)
 
 **Правообладателям**. Если вы увидели что-то, что затрагивает ваши права, то сообщите по контактам ниже, и я удалю материал, который вам не нравится.
 
@@ -30,9 +30,9 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 Установка и подключение в LaTeX
 -------------------------------
 
-Подробно о установке с подробным примером можно прочитать тут http://blog.harrix.org/?p=932.
+Подробно о установке с подробным примером можно прочитать тут [http://blog.harrix.org/?p=932](http://blog.harrix.org/?p=932).
 
-Подробно прочитать о том, как находить материалы-источники, использованных в моих работах, можно тут http://blog.harrix.org/?p=962.
+Подробно прочитать о том, как находить материалы-источники, использованных в моих работах, можно тут [http://blog.harrix.org/?p=962](http://blog.harrix.org/?p=962).
 
 Для полноценной работы редактированию LaTeX документа вам потребуются программа для компиляции \*.tex документов в \*.pdf. Автор использует для этого связку MiKTeX + TeXstudio + pscyr.
 
@@ -46,7 +46,7 @@ https://github.com/Harrix/HarrixLaTeXDocumentTemplate
 \bibliography{biblio}     %% имя библиографической базы (bib-файла)
 ```
 
-Подробное описание установки и настройки связки MiKTeX + TeXstudio + pscyr можно прочитать в статье http://blog.harrix.org/?p=849.
+Подробное описание установки и настройки связки MiKTeX + TeXstudio + pscyr можно прочитать в статье [http://blog.harrix.org/?p=849](http://blog.harrix.org/?p=849).
 	
 Пример списка литературы
 ------------------------
