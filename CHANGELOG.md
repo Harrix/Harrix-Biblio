@@ -1,6 +1,11 @@
 HarrixBiblio
 ============
 
+1.14
+----
+ * Добавлены материалы из проекта HarrixPDFDataOfOptimizationTesting.
+ * Добавлен файл HarrixMathLibraryForTestFunctions_Help.pdf.
+
 1.13
 ----
  * Добавлен источник "Непрерывные генетические алгоритмы - математический аппарат".
