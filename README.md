@@ -1,7 +1,7 @@
 HarrixBiblio
 ============
 
-Версия 1.14
+Версия 1.15
 
 Файлы библиографических ссылок [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib), которые я использую в своих статьях в формате LaTeX. При этом имеются все материалы в папках [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) и [**MaterialsHarrix**](https://github.com/Harrix/HarrixBiblio/blob/master/MaterialsHarrix) в виде сканов и иных документов, чтобы вы могли ознакомиться с теми материалами, которые я использовал.
 
