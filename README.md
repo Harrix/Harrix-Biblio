@@ -25,7 +25,7 @@ HarrixBiblio
 - [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
 - [**MaterialsHarrix**](https://github.com/Harrix/HarrixBiblio/blob/master/MaterialsHarrix) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
 - [**images**](https://github.com/Harrix/HarrixBiblio/blob/master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
-- [**utf8gost705u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost705u.bst) - файл для оформления по ГОСТ.
+- [**utf8gost71u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost71u.bst) - файл для оформления по ГОСТ.
 
 Установка и подключение в LaTeX
 -------------------------------
@@ -36,13 +36,13 @@ HarrixBiblio
 
 Для полноценной работы редактированию LaTeX документа вам потребуются программа для компиляции \*.tex документов в \*.pdf. Автор использует для этого связку MiKTeX + TeXstudio + pscyr.
 
- 1. Скопируйте файл [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**utf8gost705u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost705u.bst) в папку с вашим \*.tex файлом
+ 1. Скопируйте файл [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**utf8gost71u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost71u.bst) в папку с вашим \*.tex файлом
  
  2. В месте, где хотите сослаться на материал, напишите, например: `\cite{web:makeingsimpleGA}` или `\cite[с. 93]{book:Bolshev1983}`.
 
  3. В месте, где вы хотите вставить список литературы, напишите:
 ```
-\bibliographystyle{utf8gost705u}  %% стилевой файл для оформления по ГОСТу
+\bibliographystyle{utf8gost71u}  %% стилевой файл для оформления по ГОСТу
 \bibliography{biblio}     %% имя библиографической базы (bib-файла)
 ```
 
