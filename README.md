@@ -7,7 +7,7 @@ HarrixBiblio
 
 [https://github.com/Harrix/HarrixBiblio](https://github.com/Harrix/HarrixBiblio)
 
-Данные распространяются по лицензии [Apache License, Version 2.0](https://github.com/Harrix/HarrixBiblio/blob/master/LICENSE.txt).
+Данные распространяются по лицензии [MIT](https://github.com/Harrix/HarrixBiblio/blob/master/LICENSE).
 
 Не вижу смысла делать в работах ссылки на материалы, которые другие люди не смогут прочитать.
 
