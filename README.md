@@ -1,5 +1,4 @@
-HarrixBiblio
-============
+# HarrixBiblio
 
 Версия 1.15
 
@@ -7,7 +6,7 @@ HarrixBiblio
 
 [https://github.com/Harrix/HarrixBiblio](https://github.com/Harrix/HarrixBiblio)
 
-Данные распространяются по лицензии [MIT](https://github.com/Harrix/HarrixBiblio/blob/master/LICENSE).
+Данные распространяются по лицензии [MIT](https://github.com/Harrix/HarrixBiblio/blob/master/LICENSE.md).
 
 Не вижу смысла делать в работах ссылки на материалы, которые другие люди не смогут прочитать.
 
@@ -17,58 +16,45 @@ HarrixBiblio
 
 **Правообладателям**. Если вы увидели что-то, что затрагивает ваши права, то сообщите по контактам ниже, и я удалю материал, который вам не нравится.
 
-Структура проекта на GitHub
--------------------------
+## Структура проекта на GitHub
 
-- [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) - непосредственно сам файл библиографических ссылок.
-- [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib) - файл библиографических ссылок с авторскими работами.
-- [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials) - папка с материалами, которые упоминаются в файле библиографических ссылок.
-- [**MaterialsHarrix**](https://github.com/Harrix/HarrixBiblio/blob/master/MaterialsHarrix) - папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
-- [**images**](https://github.com/Harrix/HarrixBiblio/blob/master/images) - папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
-- [**utf8gost71u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost71u.bst) - файл для оформления по ГОСТ.
+- [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib): непосредственно сам файл библиографических ссылок.
+- [**biblioHarrix.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblioHarrix.bib): файл библиографических ссылок с авторскими работами.
+- [**Materials**](https://github.com/Harrix/HarrixBiblio/blob/master/Materials): папка с материалами, которые упоминаются в файле библиографических ссылок.
+- [**MaterialsHarrix**](https://github.com/Harrix/HarrixBiblio/blob/master/MaterialsHarrix): папка с материалами, которые упоминаются в файле библиографических ссылок авторских работ.
+- [**images**](https://github.com/Harrix/HarrixBiblio/blob/master/images): папка с рисунками, для отображения в README.md. Служебная папка - вам не нужна.
+- [**utf8gost71u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost71u.bst): файл для оформления по ГОСТ.
 
-Установка и подключение в LaTeX
--------------------------------
-
-Подробно о установке с подробным примером можно прочитать тут [http://blog.harrix.org/?p=932](http://blog.harrix.org/?p=932).
-
-Подробно прочитать о том, как находить материалы-источники, использованных в моих работах, можно тут [http://blog.harrix.org/?p=962](http://blog.harrix.org/?p=962).
+## Установка и подключение в LaTeX
 
 Для полноценной работы редактированию LaTeX документа вам потребуются программа для компиляции \*.tex документов в \*.pdf. Автор использует для этого связку MiKTeX + TeXstudio + pscyr.
 
- 1. Скопируйте файл [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**utf8gost71u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost71u.bst) в папку с вашим \*.tex файлом
- 
- 2. В месте, где хотите сослаться на материал, напишите, например: `\cite{web:makeingsimpleGA}` или `\cite[с. 93]{book:Bolshev1983}`.
+1. Скопируйте файл [**biblio.bib**](https://github.com/Harrix/HarrixBiblio/blob/master/biblio.bib) и [**utf8gost71u.bst**](https://github.com/Harrix/HarrixBiblio/blob/master/utf8gost71u.bst) в папку с вашим \*.tex файлом
 
- 3. В месте, где вы хотите вставить список литературы, напишите:
-```
+2. В месте, где хотите сослаться на материал, напишите, например: `\cite{web:makeingsimpleGA}` или `\cite[с. 93]{book:Bolshev1983}`.
+
+3. В месте, где вы хотите вставить список литературы, напишите:
+
+```latex
 \bibliographystyle{utf8gost71u}  %% стилевой файл для оформления по ГОСТу
 \bibliography{biblio}     %% имя библиографической базы (bib-файла)
 ```
 
 Подробное описание установки и настройки связки MiKTeX + TeXstudio + pscyr можно прочитать в статье [http://blog.harrix.org/?p=849](http://blog.harrix.org/?p=849).
-	
-Пример списка литературы
-------------------------
+
+## Пример списка литературы
 
 ![alt text](https://raw.github.com/Harrix/HarrixBiblio/master/images/biblio.png "Пример списка литературы")
 
-Использованные технологии
--------------------------
+## Использованные технологии
 
 - [LaTeX](http://ru.wikipedia.org/wiki/LaTeX), [BiBTex](http://ru.wikipedia.org/wiki/BibTeX), [MiKTeX](http://miktex.org/), [TeXstudio](http://texstudio.sourceforge.net/).
 - [HarrixLaTeXDocumentTemplate](https://github.com/Harrix/HarrixLaTeXDocumentTemplate).
 
-История проекта
----------------
+## Контакты
 
-Подробный список изменений в файле [CHANGELOG.md](https://github.com/Harrix/HarrixBiblio/blob/master/CHANGELOG.md).
+Сергиенко Антон (Harrix):
 
-Контакты
---------
+- [anton.b.sergienko@gmail.com](mailto:anton.b.sergienko@gmail.com)
 
-Автор: Сергиенко Антон Борисович.
-
-С автором можно связаться по адресу [sergienkoanton@mail.ru](mailto:sergienkoanton@mail.ru) или  [http://vk.com/harrix](http://vk.com/harrix).
-
-Сайт автора, где публикуются последние новости: [http://blog.harrix.org](http://blog.harrix.org), а проекты располагаются по адресу: [http://harrix.org](http://harrix.org).
+- [harrix.dev](https://harrix.dev)
